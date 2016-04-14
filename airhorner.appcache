@@ -1,0 +1,12 @@
+CACHE MANIFEST 
+# 2016-04-14:v1.0
+ 
+NETWORK:
+*
+ 
+CACHE:
+index.html
+styles/main.css
+scripts/main.min.js
+sounds/airhorn.mp3
+
